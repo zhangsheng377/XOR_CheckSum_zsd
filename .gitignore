@@ -1,0 +1,6 @@
+.idea/
+build/
+dist/
+XOR_CheckSum_zsd.egg-info/
+tests/.cache/
+XOR_CheckSum/__pycache__/
