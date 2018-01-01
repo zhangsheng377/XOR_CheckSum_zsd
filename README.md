@@ -13,6 +13,14 @@
 
 '0x7b'
 
+\>\>\> hex(XOR_CheckSum_string('CCICA,0,00', encoding="utf-8"))
+
+'0x7b'
+
+\>\>\> hex(XOR_CheckSum_string('CCICA,0,00', encoding="utf-16"))
+
+'0x7a'
+
 -----------
 
 python setup.py sdist
